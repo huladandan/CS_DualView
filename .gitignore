@@ -1,4 +1,5 @@
 /Trained_Weights/Restormer/pretrained_models/*.pth
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
