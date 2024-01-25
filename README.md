@@ -3,7 +3,7 @@ This repository contains the testing code for "Dual-view separation and reconstr
 
 ## Environment Configuration
 Before you start, please make sure the following steps are completed:
-1. **Matconvnet Configuration**: Configure Matconvnet for Matlab. Follow the instructions provided in the official [Matconvnet installation guide](http://www.vlfeat.org/matconvnet/install/). After configuration, ensure that the provided `vl_simplenn.m` file is 
+1. **Matconvnet Configuration**: Configure Matconvnet for Matlab. Follow the instructions provided in the official [Matconvnet installation guide](http://www.vlfeat.org/matconvnet/install/). After configuration, ensure that the provided `vl_simplenn.m` file is copied into the 'Matconvnet/matlab/simplenn' directory.
 2. **Python Packages Installation**: Install the required Python packages. In the terminal, navigate to the directory containing the `requirements.txt` file and run the following command:
 ```bash
 pip install -r requirements.txt
